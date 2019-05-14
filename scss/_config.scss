@@ -4,7 +4,7 @@ $show-home-image: true;
 $home-image: url("../img/background.jpg"); // Keep in mind: file path is trelative to the css file in dist/css
 $background-opacity: 0.9;
 
-@mixin easeout {
+@mixin easeOut {
   transition: all 0.5s ease-out;
 }
 
